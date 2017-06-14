@@ -1,7 +1,0 @@
-INDEX VERSION 1.3+D:\laioffer\workspace2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1475950263.index
-2018728342.index
-209237526.index
-2963985736.index
-620334599.index
-731572634.index
